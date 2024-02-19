@@ -69,3 +69,11 @@ We provide configs responsible for the thesis results in `./config/`, you can ch
 configs = ['./config/dtu/lego_3072.ini']
 ```
 
+
+## Acknowledgements
+
+The code for multiple importance sampling rendering and BRDFs are based on [Mitsuba](https://www.mitsuba-renderer.org/) and the excellent [pbr book](https://www.pbr-book.org/).
+<br>
+The datasets are from [NeRFactor](https://github.com/google/nerfactor), [TensoIR](https://github.com/Haian-Jin/TensoIR), and [DTU](https://roboimagedata.compute.dtu.dk/?page_id=36). The estimated meshes are from [TensoIR](https://github.com/Haian-Jin/TensoIR) and [MonoSDF](https://github.com/autonomousvision/monosdf).
+<br>
+We thank all the authors for their great work.
