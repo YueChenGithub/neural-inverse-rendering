@@ -1,8 +1,8 @@
 # neural-inverse-rendering
-
-This repository is responsible for the master thesis:
+### [Project Page](https://yuechengithub.github.io/neural-inverse-rendering/) | [Thesis](./docs/MA_Yue_Chen.pdf)
 <br>
-[Neural Scene Decomposition for Accurate Light and Material Reconstruction via Physically-Based Global Illumination Estimation](./docs/MA_Yue_Chen.pdf)
+
+[Neural Scene Decomposition for Accurate Light and Material Reconstruction via Physically-Based Global Illumination Estimation](https://yuechengithub.github.io/neural-inverse-rendering/)
 <br>
 [Yue Chen](https://github.com/YueChenGithub)<sup>1</sup>, [Peter Kocsis](https://peter-kocsis.github.io/)<sup>1</sup>, [Matthias Niessner](https://www.niessnerlab.org/)<sup>1</sup>
 <br>
